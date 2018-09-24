@@ -1,0 +1,2 @@
+# hultprizeatlug.github.io
+The Hult Prize is the world’s largest student competition and start-up platform for social good. In partnership with former President Bill Clinton, this innovative crowdsourcing platform identifies and launches disruptive and catalytic social ventures that aim to solve the planet’s most pressing challenges. Student teams compete around the world for a chance to secure US$ 1 million in start-up funding to launch a sustainable social venture.
